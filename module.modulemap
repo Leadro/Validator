@@ -1,0 +1,4 @@
+module Validator {
+    header "include/pkcs7_union_accessors.h"
+    export *
+}
